@@ -1,0 +1,1 @@
+I am fetching myfile.tex file to js file to display this.
